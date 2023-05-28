@@ -8,7 +8,7 @@
 ## Пример проверки явного вызова
 ```php
 // подключение ExplicitCallCheck
-require('ExplicitCallCheck.php');
+require('ExplicitCallCheck/ExplicitCallCheck.php');
 
 class BaseClass
 {
